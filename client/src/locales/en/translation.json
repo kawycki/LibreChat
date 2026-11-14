@@ -1025,6 +1025,8 @@
   "com_nav_theme_high_contrast_light": "High contrast light",
   "com_nav_theme_light": "Light",
   "com_nav_theme_system": "System",
+  "com_nav_theme_toggle_dark": "Switch to dark theme",
+  "com_nav_theme_toggle_light": "Switch to light theme",
   "com_nav_tool_dialog": "Assistant Tools",
   "com_nav_tool_dialog_agents": "Agent Tools",
   "com_nav_tool_dialog_description": "Assistant must be saved to persist tool selections.",
